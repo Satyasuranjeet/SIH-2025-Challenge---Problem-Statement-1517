@@ -135,7 +135,7 @@ cd "d:/Projects/SIH 2025/SIH1517/geospatial_nlp_system" && ./venv/Scripts/python
 - Example queries included
 
 #### 🖼️ Web Interface Screenshot
-![Geospatial NLP Query System Web Interface](https://raw.githubusercontent.com/Satyasuranjeet/SIH-2025-Challenge---Problem-Statement-1517/master/assets/web-interface-screenshot.png)
+![Geospatial NLP Query System Web Interface](https://raw.githubusercontent.com/Satyasuranjeet/SIH-2025-Challenge---Problem-Statement-1517/refs/heads/master/assets/web_interface_demo.png)
 
 *The web interface showing successful extraction of geographical entities (Mumbai, Delhi, Bangalore) from a natural language query with 100% confidence scores. The system correctly identifies all three cities and provides detailed analysis with 48,059 cities from 242 countries in the database.*
 
