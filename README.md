@@ -134,6 +134,11 @@ cd "d:/Projects/SIH 2025/SIH1517/geospatial_nlp_system" && ./venv/Scripts/python
 - Confidence score analysis
 - Example queries included
 
+#### 🖼️ Web Interface Screenshot
+![Geospatial NLP Query System Web Interface](https://raw.githubusercontent.com/Satyasuranjeet/SIH-2025-Challenge---Problem-Statement-1517/master/assets/web-interface-screenshot.png)
+
+*The web interface showing successful extraction of geographical entities (Mumbai, Delhi, Bangalore) from a natural language query with 100% confidence scores. The system correctly identifies all three cities and provides detailed analysis with 48,059 cities from 242 countries in the database.*
+
 ### 3. Programmatic Usage
 ```python
 from src.geospatial_query_system import GeospatialQuerySystem
